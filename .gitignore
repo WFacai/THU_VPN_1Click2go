@@ -1,0 +1,14 @@
+# Logs / temp files
+*.log
+*.tmp
+
+# Local test files
+test-*.txt
+debug-*.txt
+
+# PowerShell editor files
+*.ps1xml
+
+# OS files
+Thumbs.db
+.DS_Store
