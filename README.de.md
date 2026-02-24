@@ -73,6 +73,8 @@ Unterstützte Cisco-Clients (typisch):
 
 Pfad:
 
+Du kannst direkt die `Win`-Taste drücken und nach **Anmeldeinformationsverwaltung** suchen (integriertes Windows-Tool).
+
 **Anmeldeinformationsverwaltung → Allgemeine Anmeldeinformationen → Allgemeine Anmeldeinformationen hinzufügen**
 
 Eintragen:

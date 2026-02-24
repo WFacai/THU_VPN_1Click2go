@@ -72,6 +72,8 @@ It is designed for Cisco VPN clients such as:
 
 Open:
 
+Press the `Win` key and search for **Credential Manager** (built-in Windows tool).
+
 **Credential Manager** → **Generic Credentials** → **Add a generic credential**
 
 Fill in:
